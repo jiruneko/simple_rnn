@@ -1,1 +1,1 @@
-# simple_rnn
+# simple_rnn(normal code)
